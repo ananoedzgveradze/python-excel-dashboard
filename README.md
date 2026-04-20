@@ -86,4 +86,3 @@ The goal of this project is to automate data cleaning, analysis, and reporting t
 
 ## 📎 Files Included
 - `retail_report.py` → Python automation script  
-- `retail_report.xlsx` → Final Excel report  
